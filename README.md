@@ -1,1 +1,1 @@
-# projects
+This repository contains project codes.
